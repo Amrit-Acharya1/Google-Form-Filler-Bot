@@ -90,5 +90,5 @@ routes/
 
 ## 🧑‍💻 Author
 
-Built with ❤️ in Laravel by [Your Name]  
+Built with ❤️ in Laravel by [Amrit Acharya]  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/amrit-acharya-7063472a8/) or [GitHub](https://github.com/Amrit-Acharya1)
